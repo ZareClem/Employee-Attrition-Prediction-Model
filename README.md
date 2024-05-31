@@ -35,3 +35,24 @@ Satisfaction Level emerged as the most pivotal factor influencing employee depar
 Last evaluation, number of projects, and average monthly hours were also noteworthy determinants impacting the probability of an employee leaving the company.
 ![image](https://github.com/ZareClem/Employee-Attrition-Prediction-Model/assets/138980152/c63a12eb-abcb-43ec-9883-5ed1fc4b7921) ![image](https://github.com/ZareClem/Employee-Attrition-Prediction-Model/assets/138980152/4d8348e0-a684-4c1c-bffa-c6e4948af441)
 
+## Correlation Insights:
+Employee satisfaction showed a strong negative correlation with leaving, implying lower satisfaction leads to higher chances of leaving.
+Features like last evaluation, number of projects, and average monthly hours showed significant positive correlations with each other, affecting employee satisfaction inversely.
+Promotions in the last 5 years and work accidents had notable impacts on employee departure, though comparatively minor.
+![image](https://github.com/ZareClem/Employee-Attrition-Prediction-Model/assets/138980152/ae3680e3-a1b8-499d-a082-4e816711f279)
+
+## Recommendations:
+
+### Employee Satisfaction:
+Focus on strategies to enhance employee satisfaction, addressing specific concerns and improving the overall work environment.
+Regularly assess employee satisfaction levels to identify and mitigate potential issues proactively.
+
+### Workload Management:
+Establish a balanced workload by managing the number of projects and average monthly hours to prevent employee burnout and dissatisfaction.
+
+### Employee Development:
+Foster career development opportunities, ensuring that promotions and recognitions are distributed fairly and transparently.
+
+### Model Utilization:
+Employ the predictive models, particularly Random Forest or XGBoost, to forecast potential employee churn, allowing for timely interventions.
+Continuously update and refine the models to adapt to evolving organizational dynamics and employee behaviors.
