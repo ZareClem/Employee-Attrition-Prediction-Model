@@ -19,3 +19,7 @@ Provide actionable recommendations based on insights derived from the data, aimi
 
 ### Expected Outcome:
 By accurately predicting employees who may quit, Salifort Motors can proactively identify underlying factors contributing to attrition. This proactive approach not only saves time and resources associated with recruitment but also fosters a positive work environment conducive to employee satisfaction and retention, ultimately benefiting the company's overall productivity and success.
+## Dataset Overview
+The dataset provided for this project  comprises 15,000 rows and 10 columns, encompassing various variables. 
+
+You can refer to the data  source on [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)
