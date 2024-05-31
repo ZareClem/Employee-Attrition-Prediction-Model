@@ -23,3 +23,15 @@ By accurately predicting employees who may quit, Salifort Motors can proactively
 The dataset provided for this project  comprises 15,000 rows and 10 columns, encompassing various variables. 
 
 You can refer to the data  source on [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)
+
+## Key Insights:
+  ### Model Selection:
+
+Random Forest and XGBoost exhibited superior performance in comparison to Logistic Regression, establishing them as more dependable options for this particular scenario.
+The ROC-AUC scores and feature importance plots from both models aided in comprehending the significance of each feature in predicting employee turnover.
+  ### Feature Importance:
+
+Satisfaction Level emerged as the most pivotal factor influencing employee departure across both models, displaying a robust negative correlation with the target variable.
+Last evaluation, number of projects, and average monthly hours were also noteworthy determinants impacting the probability of an employee leaving the company.
+![image](https://github.com/ZareClem/Employee-Attrition-Prediction-Model/assets/138980152/c63a12eb-abcb-43ec-9883-5ed1fc4b7921) ![image](https://github.com/ZareClem/Employee-Attrition-Prediction-Model/assets/138980152/4d8348e0-a684-4c1c-bffa-c6e4948af441)
+
